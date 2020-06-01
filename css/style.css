@@ -1,0 +1,62 @@
+html{
+    width: 100%;
+}
+
+
+
+body{
+    background: url(../images/cmp.jpg.jpg)
+    no-repeat center center fixed;
+    background-size: cover;
+
+  
+}
+
+
+
+.container{
+    
+    
+    text-align: center;
+    margin: 90px;
+    
+}
+h1{
+    color:aliceblue;
+    font-size: 50px;
+    padding: 25px;
+}
+
+p{
+    color:aliceblue;
+}
+button{
+    padding: 50px;
+}
+.size{
+    color:aliceblue;
+    
+    
+    
+}
+.right{
+    
+    background-color: dodgerblue;
+    color: aliceblue;
+    margin:10px; 
+}
+
+.left{
+   
+    background-color:darkblue;
+    color: aliceblue;
+    margin:10px; 
+}
+.social-menu{
+    display:inline-block;
+    min-width: 300px;
+    opacity: 0.8;
+}
+
+
+

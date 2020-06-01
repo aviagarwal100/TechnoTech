@@ -1,0 +1,20 @@
+
+#the-basics{
+    font-size: 25px;
+    text-align: center;
+}
+#the-basics input{
+    margin-left:40px;
+}
+
+
+.jumbotron{
+    padding: 80px;
+    margin: 80px;
+}
+.tt-menu{
+    text-align: left;
+    margin-left: 40px;
+        
+    
+}
